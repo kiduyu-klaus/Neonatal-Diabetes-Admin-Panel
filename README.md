@@ -20,7 +20,7 @@
 - [ ] access logs
 
 # Live Demo
-*Link to the demo: <a href="https://the-bookhub.co.ke/neonatal_panel/" >Link<a/>*
+*Link to the demo: <a href="http://the-bookhub.co.ke/projects/anita/index.php" >Link<a/>*
 
 # ScreenShots
 # Lockscreen
