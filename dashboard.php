@@ -15,7 +15,7 @@ check_login();
 
 				<div class="info-box-content">
 					<span class="info-box-text">Doctors</span>
-					<span class="info-box-number">1,410</span>
+					<span class="info-box-number">24</span>
 				</div>
 				<!-- /.info-box-content -->
 			</div>
@@ -27,7 +27,7 @@ check_login();
 				<span class="info-box-icon bg-success"><i class="fas fa-seedling"></i></i></span>
 
 				<div class="info-box-content">
-					<span class="info-box-text">Herbs</span>
+					<span class="info-box-text">Consultations</span>
 					<span class="info-box-number">410</span>
 				</div>
 				<!-- /.info-box-content -->
@@ -40,8 +40,8 @@ check_login();
 				<span class="info-box-icon bg-warning"><i class="far fa-copy"></i></span>
 
 				<div class="info-box-content">
-					<span class="info-box-text">Patiets</span>
-					<span class="info-box-number">13,648</span>
+					<span class="info-box-text">Patients</span>
+					<span class="info-box-number">120</span>
 				</div>
 				<!-- /.info-box-content -->
 			</div>
@@ -54,7 +54,7 @@ check_login();
 
 				<div class="info-box-content">
 					<span class="info-box-text">Testimonies</span>
-					<span class="info-box-number">93,139</span>
+					<span class="info-box-number">56</span>
 				</div>
 				<!-- /.info-box-content -->
 			</div>
