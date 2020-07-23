@@ -1,7 +1,7 @@
 # Neonatal Diabetes Admin Panel
  An Admin Panel for an android based mobile phone application with multiple features for Neonatal diabetes disease that will help in automating the process of diagnosis, identifying, prescribing and managing Neonatal diabetes .
  
- *Link to the App: <a href="#" >Link<a/>*
+ *Link to the App: <a href="https://github.com/kiduyu-klaus/NeonatalApp" >Link<a/>*
  
  *UNDER DEVELOPMENT*
  ### To-Do List
