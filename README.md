@@ -19,6 +19,9 @@
 - [ ] manage testimonies
 - [ ] access logs
 
+# Live Demo
+*Link to the demo: <a href="https://the-bookhub.co.ke/neonatal_panel/" >Link<a/>*
+
 # ScreenShots
 # Lockscreen
 <img src="./screenshots/lockscreen.jpg">
