@@ -2,7 +2,14 @@
 include('include/header.php');
 include('include/config.php');
 include('include/checklogin.php');
-check_login();
+
+$qry_tips="SELECT COUNT(*) as num FROM neonatal_tips";
+$total_tips= mysqli_fetch_array(mysqli_query($mysqli,$qry_tips));
+$total_tips = $total_tips['num'];
+
+$qry_herbs="SELECT COUNT(*) as num FROM neonatal_consultant";
+$total_herbs = mysqli_fetch_array(mysqli_query($mysqli,$qry_herbs));
+$total_herbs = $total_herbs['num'];
 
 ?>
 
@@ -15,7 +22,7 @@ check_login();
 
 				<div class="info-box-content">
 					<span class="info-box-text">Doctors</span>
-					<span class="info-box-number">24</span>
+					<span class="info-box-number"><?php echo $total_herbs;?></span>
 				</div>
 				<!-- /.info-box-content -->
 			</div>
@@ -27,8 +34,8 @@ check_login();
 				<span class="info-box-icon bg-success"><i class="fas fa-seedling"></i></i></span>
 
 				<div class="info-box-content">
-					<span class="info-box-text">Consultations</span>
-					<span class="info-box-number">410</span>
+					<span class="info-box-text">Tips</span>
+					<span class="info-box-number"><?php echo $total_tips;?></span>
 				</div>
 				<!-- /.info-box-content -->
 			</div>

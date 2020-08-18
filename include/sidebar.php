@@ -23,7 +23,7 @@
                 </a>
                 <ul class="nav nav-treeview">
                     <li class="nav-item">
-                        <a href="" class="nav-link">
+                        <a href="add_doctor.php" class="nav-link">
                         <i class="fas fa-info-circle"></i>
                             <p>Add a Doctor</p>
                         </a>
@@ -46,7 +46,7 @@
                 </a>
                 <ul class="nav nav-treeview">
                     <li class="nav-item">
-                        <a href="pages/charts/chartjs.html" class="nav-link">
+                        <a href="add_heath_tips.php" class="nav-link">
                         <i class="fas fa-info-circle"></i>
                             <p>Add a Health Tip</p>
                         </a>
